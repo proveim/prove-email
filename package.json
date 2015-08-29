@@ -2,7 +2,7 @@
   "name": "@prove/email",
   "version": "1.1.0",
   "description": "Prove email address",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "node_modules/.bin/grunt ci"
   },

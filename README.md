@@ -9,11 +9,11 @@ Prove email address
 This module is installed via npm:
 
 ``` bash
-$ npm install prove-email
+$ npm install @prove/email
 ```
 
 ## Example Usage
 
 ``` js
-var proveEmail = require('prove-email');
+var proveEmail = require('@prove/email');
 ```
